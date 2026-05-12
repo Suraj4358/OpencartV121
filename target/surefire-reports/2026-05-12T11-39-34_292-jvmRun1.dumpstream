@@ -1,0 +1,15 @@
+# Created at 2026-05-12T11:39:39.899
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2026-05-12T11:39:39.902
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2026-05-12T11:39:39.905
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (mmap) failed to map 123731968 bytes. Error detail: G1 virtual space'.
+
+# Created at 2026-05-12T11:39:39.907
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2026-05-12T11:39:39.967
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '# C:\Users\yaduv\eclipse-workspace\OpencartV121\hs_err_pid12700.log'.
+
